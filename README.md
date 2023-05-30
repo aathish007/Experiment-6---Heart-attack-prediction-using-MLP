@@ -1,4 +1,4 @@
-# Experinment 6 Heart attack prediction using MLP
+# Experinment 6 Heart attack prediction using MLP 
 ## Aim :
       To construct a  Multi-Layer Perceptron to predict heart attack using Python
 ## Algorithm :
